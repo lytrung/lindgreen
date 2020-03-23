@@ -1,0 +1,67 @@
+#top
+{
+	position: relative;
+}
+
+#buttonu1229
+{
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-color: #787878;
+	background-color: #FFFFFF;
+	border-radius: 0px 10px 10px 0px ;
+	position: fixed;
+	transition: ease 0.3s all;
+}
+
+#buttonu1229:hover
+{
+	background-color: #dedede;
+}
+
+#buttonu1229.ButtonSelected
+{
+	background-color: #FFFFFF;
+}
+
+#u1230-4
+{
+	background-color: transparent;
+	color: #3C3C3C;
+	text-align: center;
+	letter-spacing: 0px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#buttonu1229:hover #u1230-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu1229.ButtonSelected #u1230-4 p
+{
+	color: #3C3C3C;
+	visibility: inherit;
+}
+
+.js #buttonu1229.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u166
+{
+	background: transparent url("/images/img_bg_footer.png") repeat-x center bottom;
+}
+
+#u1055-4
+{
+	background-color: transparent;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
